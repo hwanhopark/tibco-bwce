@@ -8,3 +8,6 @@
   * [토크ON세미나] 쿠버네티스 살펴보기 1강 - 컨테이너 오케스트레이션 | T아카데미
      - https://github.com/subicura/workshop-k8s-basic
      - https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTu31zyb_QelQMaqFGgASA
+
+2. Maven 강좌
+  * 뉴렉처 - 메이븐(Maven) 강의 on 이클립스(https://www.youtube.com/playlist?list=PLq8wAnVUcTFWRRi_JWLArMND_PnZM6Yja)
